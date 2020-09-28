@@ -2,4 +2,4 @@
 
 ## 05 - General Design Skills - "Mind Escape"
 
-<img src="C:\Users\Star\Desktop\Mind Escape.png">
+<img src="C:\Users\Star\Desktop\MindEscape.png">
